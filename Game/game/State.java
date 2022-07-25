@@ -1,0 +1,3 @@
+public enum State {
+    IDLE, RUNNING, JUMPING, CLIMBING, ATTACKING, DYING, SWIMMING
+}
